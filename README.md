@@ -6,6 +6,5 @@ Fully designed and coded by Nicole.</p>
 <b> Built with: </b><br>
 HTML5, CSS3/SASS, JavaScript & Jquery
 <br><BR>
-
-![coffeeshopscreencap](https://user-images.githubusercontent.com/36938804/47251151-c2038f80-d3fd-11e8-978c-5f33a1aeeddb.png)
+![pmggithub](https://user-images.githubusercontent.com/36938804/49466541-5cf9d280-f7ce-11e8-8226-cf7d486426fe.png)
 
